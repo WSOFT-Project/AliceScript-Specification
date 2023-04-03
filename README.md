@@ -1,2 +1,9 @@
-# AliceScript-Specification
-AliceScript Language Specification
+# AliceScript 言語仕様
+このリポジトリでは、AliceScriptの言語仕様を管理しています。
+
+## ブランチの説明
+
+|ブランチ|用途|
+|---|---|
+|`main`|メインブランチです。最新版の仕様があります。|
+|`develop`|開発中ブランチです。現在検討中の仕様などが含まれていて、正式版ではありません。|
