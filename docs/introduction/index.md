@@ -1,5 +1,5 @@
 ---
-title : はじめに
+title : 1.はじめに
 ---
 
 AliceScript3は、AliceScript言語仕様の第3版です。
