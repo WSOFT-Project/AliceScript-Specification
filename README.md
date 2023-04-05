@@ -1,5 +1,6 @@
 # AliceScript 言語仕様
 このリポジトリでは、AliceScriptの言語仕様を管理しています。
+このリポジトリの成果物としてのサイトは[https://spec.alice.wsoft.ws](https://spec.alice.wsoft.ws) で公開しています。
 
 ## ブランチの説明
 
