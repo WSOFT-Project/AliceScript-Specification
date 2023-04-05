@@ -2,7 +2,7 @@
 title : 1.はじめに
 ---
 
-AliceScript3は、AliceScript言語仕様の第3版です。
+AliceScript2023は、AliceScript言語仕様の第3版です。
 2021年の初版の発行以来、AliceScriptは数度にわたる仕様変更を経て、この版を発行するに至りました。
 この版には、当然以前の版に含まれていた仕様も含まれていますし、この前身となるWSOFTScriptに含まれていた仕様も含みます。
 
