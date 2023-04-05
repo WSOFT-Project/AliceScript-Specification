@@ -62,3 +62,6 @@ AliceScriptにおける空白文字は以下のとおりです。(要確認)
 - virtual
 - override
 - command
+
+### 6.1.6 リテラル
+リテラルについての定義は[6.1.6 リテラル](./1_6_literal.md)にあります。
